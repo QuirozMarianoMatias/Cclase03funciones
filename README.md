@@ -8,3 +8,4 @@ Programación en C ,Clase 03  funciones
 --5- agrego cambios y archivos (git add .)
 --6- hago cambios y archivos (git commit -m "mensaje que habla del commit")
 --7-subir al repositorio WEB (git push)
+holis
